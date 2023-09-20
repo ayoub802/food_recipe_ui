@@ -1,4 +1,4 @@
-# Food-Recipe-RN-App-Yt
+# Food Recipe
 
 ## Get Started
 
